@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Best-Friends/static/css/main.81c6a71d.css",
+    "main.js": "/Best-Friends/static/js/main.bc70e87b.js",
+    "static/js/453.20449f60.chunk.js": "/Best-Friends/static/js/453.20449f60.chunk.js",
+    "static/media/SEGA.woff": "/Best-Friends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Best-Friends/index.html",
+    "main.81c6a71d.css.map": "/Best-Friends/static/css/main.81c6a71d.css.map",
+    "main.bc70e87b.js.map": "/Best-Friends/static/js/main.bc70e87b.js.map",
+    "453.20449f60.chunk.js.map": "/Best-Friends/static/js/453.20449f60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81c6a71d.css",
+    "static/js/main.bc70e87b.js"
+  ]
+}
